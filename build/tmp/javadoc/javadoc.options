@@ -1,0 +1,8 @@
+-classpath 'D:\\workspaces\\toys\\logistic-regression\\build\\classes\\main;D:\\workspaces\\toys\\logistic-regression\\build\\resources\\main;C:\\Users\\edwin.njeru\\.gradle\\caches\\modules-2\\files-2.1\\org.slf4j\\slf4j-api\\1.7.25\\da76ca59f6a57ee3102f8f9bd9cee742973efa8a\\slf4j-api-1.7.25.jar;C:\\Users\\edwin.njeru\\.gradle\\caches\\modules-2\\files-2.1\\ch.qos.logback\\logback-classic\\1.2.3\\7c4f3c474fb2c041d8028740440937705ebb473a\\logback-classic-1.2.3.jar;C:\\Users\\edwin.njeru\\.gradle\\caches\\modules-2\\files-2.1\\ch.qos.logback\\logback-core\\1.2.3\\864344400c3d4d92dfeb0a305dc87d953677c03c\\logback-core-1.2.3.jar'
+-d 'D:\\workspaces\\toys\\logistic-regression\\build\\docs\\javadoc'
+-doctitle 'logistic-regression API'
+-quiet 
+-windowtitle 'logistic-regression API'
+'D:\\workspaces\\toys\\logistic-regression\\src\\main\\java\\io\\github\\ghacupha\\logit\\Instance.java'
+'D:\\workspaces\\toys\\logistic-regression\\src\\main\\java\\io\\github\\ghacupha\\logit\\Logistic.java'
+'D:\\workspaces\\toys\\logistic-regression\\src\\main\\java\\io\\github\\ghacupha\\SampleClient.java'

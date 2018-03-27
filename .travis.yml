@@ -1,0 +1,13 @@
+language: java
+install: true
+
+script:
+- gradle assemble
+- gradle build
+- gradle jar
+- gradle testClasses
+- gradle javadoc
+- gradle test
+- gradle check
+jdk:
+  - oraclejdk8
