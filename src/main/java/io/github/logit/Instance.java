@@ -1,4 +1,4 @@
-package io.github.ghacupha.logit;
+package io.github.logit;
 
 import java.util.Arrays;
 import java.util.Objects;

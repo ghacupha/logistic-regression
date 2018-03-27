@@ -1,4 +1,4 @@
-package io.github.ghacupha.logit;
+package io.github.logit;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

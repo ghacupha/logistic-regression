@@ -1,6 +1,6 @@
-package io.github.ghacupha;
+package io.github;
 
-import io.github.ghacupha.logit.Logistic;
+import io.github.logit.Logistic;
 
 import java.io.FileNotFoundException;
 
